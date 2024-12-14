@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-signeasemobile-dev-cbcd6-authRole",
+      "UnauthRoleArn": "arn:aws:iam::559050215088:role/amplify-signeasemobile-dev-cbcd6-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::559050215088:role/amplify-signeasemobile-dev-cbcd6-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-signeasemobile-dev-cbcd6-deployment",
+      "UnauthRoleName": "amplify-signeasemobile-dev-cbcd6-unauthRole",
+      "StackName": "amplify-signeasemobile-dev-cbcd6",
+      "StackId": "arn:aws:cloudformation:us-east-1:559050215088:stack/amplify-signeasemobile-dev-cbcd6/619fbac0-b98d-11ef-b47b-0effaf579a75",
+      "AmplifyAppId": "d1rwebx8zf3lt1"
+    },
+    "categories": {
+      "auth": {
+        "signeasemobilec1804092": {}
+      },
+      "api": {
+        "signeasemobile": {}
+      }
+    }
+  }
+}

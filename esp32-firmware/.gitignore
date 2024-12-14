@@ -1,0 +1,67 @@
+# Flutter specific
+build/
+*.lock
+.idea/
+.packages
+.pub-cache/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+**/GeneratedPluginRegistrant.java
+**/GeneratedPluginRegistrant.swift
+
+# Environment files
+.env
+
+# Xcode
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/Podfile.lock
+ios/Runner.xcworkspace/
+DerivedData/
+.xcuserdata/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+ios/Flutter/App.xcworkspace/
+
+# Android
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/local.properties
+android/*.iml
+android/app/*.iml
+*.jks
+
+# Dart
+*.dart_tool/
+*.log
+*.tmp
+
+# VS Code
+.vscode/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Byte-compiled / optimized / dependency caches
+*.pyc
+*.pyo
+*.pyd
+*.class
+__pycache__/
+
+# Logs
+*.log
+
+# Temp Files
+*.swp
+*.swo
+*~

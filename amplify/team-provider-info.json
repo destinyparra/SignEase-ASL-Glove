@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-signease-dev-3d1b0-authRole",
+      "UnauthRoleArn": "arn:aws:iam::559050215088:role/amplify-signease-dev-3d1b0-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::559050215088:role/amplify-signease-dev-3d1b0-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-signease-dev-3d1b0-deployment",
+      "UnauthRoleName": "amplify-signease-dev-3d1b0-unauthRole",
+      "StackName": "amplify-signease-dev-3d1b0",
+      "StackId": "arn:aws:cloudformation:us-east-1:559050215088:stack/amplify-signease-dev-3d1b0/61548650-b9a0-11ef-a973-0ead893978ef",
+      "AmplifyAppId": "d2o9ggz2lawjcb"
+    },
+    "categories": {
+      "api": {
+        "signease": {}
+      }
+    }
+  }
+}
